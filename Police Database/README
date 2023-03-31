@@ -1,0 +1,8 @@
+author: Abdul-Mateen Bola-Oyebamiji
+Program: Police Database System
+Files:
+    Driver.java: a source file containing the driver class implementation
+    Vehicle.java: a source file containing the vehicle class
+    Infraction.java: a source file con taining th infraction class implementation
+    PoliceDatabase.java: a source file containing the police database class implementation
+    PoliceDatabaseTestProgram: a source file containing test programs for the database
